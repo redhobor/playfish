@@ -13,4 +13,5 @@ playfish是一个采用java技术，综合应用多个开源java组件实现的�
 
 系统自带了3个例子，分别为baidu.xml抓取百度知道，example.xml抓取我的javaeye的博客，bbs.xml抓取一个采用discuz论坛的内容。
 具体请参考下载内的使用方法文档。其中xml配置方法文档为重点。
+
 欢迎联系我 QQ:31697555 email:playfish@163.com blog:playfish.javaeye.com
